@@ -9,10 +9,10 @@ Surveyed 50+ users at IIT Ropar to identify key issues like food wastage, poor f
 4. Nutrient Dashboard with calories & macros
 5. Demand Prediction using attendance trends
 
-Role & Contributions
-Led user research, feature planning, and UI/UX design
+**Role & Contributions**
+-Led user research, feature planning, and UI/UX design
+-Designed dashboard concepts and predictive logic
+-Aligned system needs with real student feedback
 
-Designed dashboard concepts and predictive logic
-
-Aligned system needs with real student feedback
+📄 Report
 [View Report](GROUP10_2023MEB1380.pdf)
