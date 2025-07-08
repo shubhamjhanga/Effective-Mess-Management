@@ -2,6 +2,7 @@
 A smarter, student-friendly approach to campus dining
 Overview
 Surveyed 50+ users at IIT Ropar to identify key issues like food wastage, poor feedback systems, and manual rebates. Proposed a feature-rich, data-driven solution to streamline mess operations.
+
 ** Key Features**
 1. Meal Pre-Booking to reduce wastage
 2. Online Rebates for fast refund processing
